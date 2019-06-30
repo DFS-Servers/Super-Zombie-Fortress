@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "left4fortress/zombie_kill_lot"
+	$translucent 1
+}
